@@ -1,0 +1,66 @@
+body {
+      background-color:rgb(230, 230, 230);
+      margin:0;
+      padding:0;
+            
+        }
+
+        header {
+                background-color: rgb(41, 41, 41);
+                text-align: center;
+                padding:10px;
+               
+
+         } 
+
+
+        nav {
+                background-color: rgb(82, 82, 82);
+                text-align: center;
+                padding:10px;
+                
+        }
+
+        nav a { 
+               text-decoration:none;
+                margin:10px;
+        }
+
+        .container {
+                max-width: 800px;
+                margin:20px auto;
+                background-color:white;
+                border-radius: 5px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+                padding:20px;
+              
+                
+                
+        }
+        .box {
+                background-color:rgb(62, 152, 255);
+                text-align: center;
+                color:white;
+                padding:20px;
+                margin:10px;
+                
+                
+               
+        }
+
+        .red-box {
+                background-color:red;
+             
+                
+        }
+
+        .green-box {
+                background-color:green;
+               
+        }
+
+        .blue-box {
+                background-color:blue;
+                
+            
+        }
